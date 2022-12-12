@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XoumzXttkh1kUKirRAbs3jaitstOvX8CussuGfXAgR40KQJBrGA9iEVrBdlzk1a1HIXMcyt4XFYvQAg327bjjQ==",
+  "success": true,
+  "projectFilePath": "/Users/blkcap/Desktop/HAGRID/CompSci/coding_classes/c3400LanComp/HW4/HW4.fsproj",
+  "expectedPackageFiles": [
+    "/Users/blkcap/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
